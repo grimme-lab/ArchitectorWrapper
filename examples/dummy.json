@@ -1,0 +1,612 @@
+{
+    "bc5a4f82af7ddb266463e657e88280b9": {
+        "core": {
+            "metal": "La",
+            "coreCN": 6
+        },
+        "ligands": [
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "ec8c5d48092350e77bbaeb2565dbdeec": {
+        "core": {
+            "metal": "La",
+            "coreCN": 5
+        },
+        "ligands": [
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "706610e79d89b719e3432e5cb868d89a": {
+        "core": {
+            "metal": "La",
+            "coreCN": 8
+        },
+        "ligands": [
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "6d9a266f65ee9ad978edc6f2597123d7": {
+        "core": {
+            "metal": "La",
+            "coreCN": 7
+        },
+        "ligands": [
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "75bca525d62dc7493cb64e7cc851fc06": {
+        "core": {
+            "metal": "La",
+            "coreCN": 9
+        },
+        "ligands": [
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "5d151daf891e9e7accc8b615c93bea41": {
+        "core": {
+            "metal": "La",
+            "coreCN": 9
+        },
+        "ligands": [
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "0d215d6a79014b3250f1196d5e377e61": {
+        "core": {
+            "metal": "La",
+            "coreCN": 5
+        },
+        "ligands": [
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "b6464e6b979fa24a4a1f42d01f72812c": {
+        "core": {
+            "metal": "La",
+            "coreCN": 7
+        },
+        "ligands": [
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "O",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "0f0885cf9423b3d4bd4e42bf783d075f": {
+        "core": {
+            "metal": "La",
+            "coreCN": 8
+        },
+        "ligands": [
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "CCO",
+                "coordList": [
+                    2
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    },
+    "2602cd845402986173347b0ec6464f26": {
+        "core": {
+            "metal": "La",
+            "coreCN": 6
+        },
+        "ligands": [
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "c1ccncc1",
+                "coordList": [
+                    3
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[OH-]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            },
+            {
+                "smiles": "[S-2]",
+                "coordList": [
+                    0
+                ],
+                "ligType": "mono"
+            }
+        ],
+        "parameters": {
+            "metal_ox": 3,
+            "full_spin": 0
+        }
+    }
+}

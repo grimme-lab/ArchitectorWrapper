@@ -1,0 +1,66 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.env
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Dependency directories
+lib/
+lib64/
+site-packages/
+dist-packages/
+
+# IDE specific
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Editor and IDE files
+*.swp
+*~
+*.bak
+*.backup
+*.save
+*.swo
+*.sublime-*
+*.sublime-workspace
+
+# Log files
+*.log
+logs/
+log.txt
+
+# Database files
+*.sqlite3
+*.db
+
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+
+# Temporary files
+*.tmp
+*.tmp.*
+*.bak
+*~
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Jupyter Notebook specific
+.ipynb_checkpoints/

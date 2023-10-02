@@ -1,0 +1,877 @@
+{
+    "water": {
+        "smiles": "O",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "hydroxyl": {
+        "smiles": "[OH-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "sulfide": {
+        "smiles": "[S-2]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "pyradine": {
+        "smiles": "c1ccncc1",
+        "coordList": [
+            3
+        ],
+        "ligType": "mono"
+    },
+    "bipyradine": {
+        "smiles": "n1ccccc1-c2ccccn2",
+        "coordList": [
+            0,
+            11
+        ],
+        "ligType": "bi_cis"
+    },
+    "bipy": {
+        "smiles": "n1ccccc1-c2ccccn2",
+        "coordList": [
+            0,
+            11
+        ],
+        "ligType": "bi_cis"
+    },
+    "terpy": {
+        "smiles": "c1ccnc(c1)c2cccc(n2)c3ccccn3",
+        "coordList": [
+            3,
+            11,
+            17
+        ],
+        "ligType": "tri_mer"
+    },
+    "terpyradine": {
+        "smiles": "c1ccnc(c1)c2cccc(n2)c3ccccn3",
+        "coordList": [
+            3,
+            11,
+            17
+        ],
+        "ligType": "tri_mer"
+    },
+    "fluoride": {
+        "smiles": "[F-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "chloride": {
+        "smiles": "[Cl-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "bromide": {
+        "smiles": "[Br-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "iodide": {
+        "smiles": "[I-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "acac": {
+        "smiles": "CC(=CC(=O)C)[O-]",
+        "coordList": [
+            4,
+            6
+        ],
+        "ligType": "bi_cis"
+    },
+    "methanol": {
+        "smiles": "CO",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "methoxy": {
+        "smiles": "C[O-]",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "ethanol": {
+        "smiles": "CCO",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "ethoxy": {
+        "smiles": "CC[O-]",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "nitrate_bi": {
+        "smiles": "[N+](=O)([O-])[O-]",
+        "coordList": [
+            2,
+            3
+        ],
+        "ligType": "bi_cis_chelating"
+    },
+    "nitrate_mono": {
+        "smiles": "[N+](=O)([O-])[O-]",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "thiocyanite": {
+        "smiles": "[S-]C#N",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "isothiocyanite": {
+        "smiles": "S=C=[N-]",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "azide": {
+        "smiles": "[N-]=[N+]=[N-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "benzoate": {
+        "smiles": "C1=CC=C(C=C1)C(=O)[O-]",
+        "coordList": [
+            7,
+            8
+        ],
+        "ligType": "bi_cis_chelating"
+    },
+    "benzoate_mono": {
+        "smiles": "C1=CC=C(C=C1)C(=O)[O-]",
+        "coordList": [
+            8
+        ],
+        "ligType": "mono"
+    },
+    "benzoic_acid": {
+        "smiles": "C1=CC=C(C=C1)C(=O)O",
+        "coordList": [
+            7
+        ],
+        "ligType": "mono"
+    },
+    "oxalate": {
+        "smiles": "C(=O)(C(=O)[O-])[O-]",
+        "coordList": [
+            4,
+            5
+        ],
+        "ligType": "bi_cis"
+    },
+    "nitrite_o": {
+        "smiles": "N(=O)[O-]",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "nitrite_n": {
+        "smiles": "N(=O)[O-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "acetonitrile": {
+        "smiles": "CC#N",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "ammonia": {
+        "smiles": "N",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "thf": {
+        "smiles": "C1CCCO1",
+        "coordList": [
+            4
+        ],
+        "ligType": "mono"
+    },
+    "en": {
+        "smiles": "NCCN",
+        "coordList": [
+            0,
+            3
+        ],
+        "ligType": "bi_cis"
+    },
+    "phen": {
+        "smiles": "c1cc2ccc3cccnc3c2nc1",
+        "coordList": [
+            9,
+            12
+        ],
+        "ligType": "bi_cis"
+    },
+    "tpp": {
+        "smiles": "c1ccccc1P(c2ccccc2)c3ccccc3",
+        "coordList": [
+            6
+        ],
+        "ligType": "mono"
+    },
+    "triphenylphosphine": {
+        "smiles": "c1ccccc1P(c2ccccc2)c3ccccc3",
+        "coordList": [
+            6
+        ],
+        "ligType": "mono"
+    },
+    "cyanide": {
+        "smiles": "[C-]#N",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "isocyanide": {
+        "smiles": "[C-]#N",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "carbonyl": {
+        "smiles": "[C-]#[O+]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "dppe": {
+        "smiles": "P(c1ccccc1)(c2ccccc2)CCP(c3ccccc3)c4ccccc4",
+        "coordList": [
+            0,
+            15
+        ],
+        "ligType": "bi_cis"
+    },
+    "dppm": {
+        "smiles": "P(c1ccccc1)(c2ccccc2)CP(c3ccccc3)c4ccccc4",
+        "coordList": [
+            0,
+            14
+        ],
+        "ligType": "bi_cis"
+    },
+    "dien": {
+        "smiles": "NCCNCCN",
+        "coordList": [
+            0,
+            3,
+            6
+        ],
+        "ligType": "tri_fac"
+    },
+    "15-crown-5": {
+        "smiles": "C1COCCOCCOCCOCCO1",
+        "coordList": [
+            2,
+            5,
+            8,
+            11,
+            14
+        ],
+        "ligType": "penta_planar"
+    },
+    "18-crown-6": {
+        "smiles": "O1CCOCCOCCOCCOCCOCC1",
+        "coordList": [
+            0,
+            3,
+            6,
+            9,
+            12,
+            15
+        ],
+        "ligType": "hexa_planar"
+    },
+    "cp": {
+        "smiles": "C1=C[CH-]C=C1",
+        "coordList": [
+            0,
+            1,
+            2,
+            3,
+            4
+        ],
+        "ligType": "sandwich"
+    },
+    "dmgh-": {
+        "smiles": "C\\C(=N\\O)\\C(\\C)=N\\[O-]",
+        "coordList": [
+            2,
+            6
+        ],
+        "ligType": "bi_cis"
+    },
+    "dota": {
+        "smiles": "O=C(O)CN(CC1)CCN(CC(=O)O)CCN(CC(=O)O)CCN1CC(=O)O",
+        "coordList": [
+            0,
+            4,
+            9,
+            12,
+            16,
+            23,
+            19,
+            26
+        ],
+        "ligType": "octa_square_antiprismatic"
+    },
+    "tetraxetan": {
+        "smiles": "O=C(O)CN(CC1)CCN(CC(=O)O)CCN(CC(=O)O)CCN1CC(=O)O",
+        "coordList": [
+            0,
+            4,
+            9,
+            12,
+            16,
+            23,
+            19,
+            26
+        ],
+        "ligType": "octa_square_antiprismatic"
+    },
+    "dtpa": {
+        "smiles": "C(CN(CC(=O)O)CC(=O)O)N(CCN(CC(=O)O)CC(=O)O)CC(=O)O",
+        "coordList": [
+            2,
+            5,
+            9,
+            11,
+            14,
+            17,
+            21,
+            25
+        ],
+        "ligType": "octa_square_antiprismatic"
+    },
+    "3,4,3-li(1-2-hopo)": {
+        "smiles": "C1=CC(=O)N(C(=C1)C(=O)NCCCN(CCCCN(CCCNC(=O)C2=CC=CC(=O)N2[O-])C(=O)C3=CC=CC(=O)N3[O-])C(=O)C4=CC=CC(=O)N4[O-])[O-]",
+        "coordList": [
+            3,
+            53,
+            52,
+            50,
+            30,
+            32,
+            40,
+            42
+        ],
+        "ligType": "octa_square_antiprismatic"
+    },
+    "dehpa": {
+        "smiles": "CCCCC(CC)COP(=O)([O-])OCC(CC)CCCC",
+        "coordList": [
+            10,
+            11
+        ],
+        "ligType": "bi_cis_bulky"
+    },
+    "dehiba": {
+        "smiles": "CCCCC(CCC)N(C(CCC)CCCC)C(=O)C(C)C",
+        "coordList": [
+            18
+        ],
+        "ligType": "mono"
+    },
+    "blphen_lactam": {
+        "smiles": "c1c2ccc3c(c2nc2c1[C@@H]1[C@@H](N(C2=O)CCCCCC)[C@H]2CC[C@@H]1CC2)nc1c(c3)[C@@H]2[C@@H](N(C1=O)CCCCCC)[C@@H]1CC[C@H]2CC1",
+        "coordList": [
+            7,
+            14,
+            27,
+            35
+        ],
+        "ligType": "tetra_planar_bent"
+    },
+    "blphen_base": {
+        "smiles": "c1c2ccc3c(c2nc2c1ccn(c2=O)CCCCCC)nc1c(c3)ccn(c1=O)CCCCCC",
+        "coordList": [
+            7,
+            14,
+            21,
+            29
+        ],
+        "ligType": "tetra_planar_bent"
+    },
+    "blphen": {
+        "smiles": "c1c2ccc3c(c2nc2c1c(c(n(c2=O)CCCCCC)c1ccccc1)c1ccccc1)nc1c(c3)c(c(n(c1=O)CCCCCC)c1ccccc1)c1ccccc1",
+        "coordList": [
+            7,
+            14,
+            33,
+            41
+        ],
+        "ligType": "tetra_planar_bent"
+    },
+    "edta": {
+        "smiles": "[O-]C(=O)CN(CCN(CC([O-])=O)CC([O-])=O)CC([O-])=O",
+        "coordList": [
+            0,
+            4,
+            7,
+            10,
+            14,
+            18
+        ],
+        "ligType": "hexa_octahedral"
+    },
+    "ethylenediaminetriacetate": {
+        "smiles": "C(C[NH+](CC(=O)[O-])CC(=O)[O-])NCC(=O)[O-]",
+        "coordList": [
+            2,
+            6,
+            10,
+            11,
+            15
+        ],
+        "ligType": "penta_square_pyramidal"
+    },
+    "egta": {
+        "smiles": "O=C([O-])CN(CC(=O)[O-])CCOCCOCCN(CC(=O)[O-])CC(=O)[O-]",
+        "coordList": [
+            2,
+            4,
+            8,
+            11,
+            14,
+            17,
+            21,
+            25
+        ],
+        "ligType": "octa_trigonal_prismatic_triangle_face_bicapped"
+    },
+    "glycine": {
+        "smiles": "C(C(=O)[O-])N",
+        "coordList": [
+            3,
+            4
+        ],
+        "ligType": "bi_cis"
+    },
+    "porphyrin": {
+        "smiles": "C1=CC2=CC3=CC=C([N-]3)C=C4C=CC(=N4)C=C5C=CC(=N5)C=C1[N-]2",
+        "coordList": [
+            8,
+            14,
+            20,
+            23
+        ],
+        "ligType": "tetra_planar"
+    },
+    "corrin": {
+        "smiles": "C1CC2=NC1C3CCC(=N3)C=C4CCC(=N4)C=C5CCC(=C2)[N-]5",
+        "coordList": [
+            3,
+            9,
+            15,
+            22
+        ],
+        "ligType": "tetra_planar"
+    },
+    "ida": {
+        "smiles": "[O-]C(=O)CNCC([O-])=O",
+        "coordList": [
+            0,
+            4,
+            7
+        ],
+        "ligType": "tri_mer"
+    },
+    "iminodiacetate": {
+        "smiles": "[O-]C(=O)CNCC([O-])=O",
+        "coordList": [
+            0,
+            4,
+            7
+        ],
+        "ligType": "tri_mer"
+    },
+    "nta": {
+        "smiles": "O=C([O-])CN(CC(=O)[O-])CC(=O)[O-]",
+        "coordList": [
+            2,
+            4,
+            7,
+            12
+        ],
+        "ligType": "tetra_seesaw"
+    },
+    "pyrazine": {
+        "smiles": "c1cnccn1",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "scorpionate": {
+        "smiles": "[CH-]1C=C[N+](=C(C(=O)[O-])N2C=CC=N2)[N-]1",
+        "coordList": [
+            7,
+            12,
+            13
+        ],
+        "ligType": "tri_fac"
+    },
+    "trithia-9-crown-3": {
+        "smiles": "C1CSCCSCCS1",
+        "coordList": [
+            2,
+            5,
+            8
+        ],
+        "ligType": "tri_fac"
+    },
+    "sulfite": {
+        "smiles": "[O-]S(=O)[O-]",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "isosulfite": {
+        "smiles": "[O-]S(=O)[O-]",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "tacn": {
+        "smiles": "C1CNCCNCCN1",
+        "coordList": [
+            2,
+            5,
+            8
+        ],
+        "ligType": "tri_fac"
+    },
+    "tricyclhexylphosphine": {
+        "smiles": "C1(CCCCC1)P(C2CCCCC2)C3CCCCC3",
+        "coordList": [
+            6
+        ],
+        "ligType": "mono"
+    },
+    "trien": {
+        "smiles": "NCCNCCNCCN",
+        "coordList": [
+            0,
+            3,
+            6,
+            9
+        ],
+        "ligType": "tetra_trigonal_pyramidal"
+    },
+    "tmp": {
+        "smiles": "CP(C)C",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "triso-tolylphosphine": {
+        "smiles": "CC1=CC=CC=C1P(C2=CC=CC=C2C)C3=CC=CC=C3C",
+        "coordList": [
+            7
+        ],
+        "ligType": "mono"
+    },
+    "tren": {
+        "smiles": "NCCN(CCN)CCN",
+        "coordList": [
+            0,
+            3,
+            6,
+            9
+        ],
+        "ligType": "tetra_trigonal_pyramidal"
+    },
+    "tris2-diphenylphosphinoethylamine": {
+        "smiles": "c1ccc(cc1)P(CCN(CCP(c2ccccc2)c3ccccc3)CCP(c4ccccc4)c5ccccc5)c6ccccc6",
+        "coordList": [
+            6,
+            9,
+            12,
+            27
+        ],
+        "ligType": "tetra_trigonal_pyramidal"
+    },
+    "amine": {
+        "smiles": "N",
+        "coordList": [
+            0
+        ],
+        "ligType": "mono"
+    },
+    "phosphorus_trifluoride": {
+        "smiles": "FP(F)F",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "topo": {
+        "smiles": "CCCCCCCCP(=O)(CCCCCCCC)CCCCCCCC",
+        "coordList": [
+            9
+        ],
+        "ligType": "mono"
+    },
+    "trimethyl_phosphite": {
+        "smiles": "COP(OC)OC",
+        "coordList": [
+            2
+        ],
+        "ligType": "mono"
+    },
+    "trimethyl_phosphine_oxide": {
+        "smiles": "CP(=O)(C)C",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "cyanex-301": {
+        "smiles": "CC(CC(C)(C)C)CP(=S)(CC(C)CC(C)(C)C)[S-]",
+        "coordList": [
+            9,
+            18
+        ],
+        "ligType": "bi_cis_chelating"
+    },
+    "bmptt": {
+        "smiles": "CC1=NN(C(=S)[C@H]1C(=O)c1ccccc1)c1ccccc1",
+        "coordList": [
+            5,
+            8
+        ],
+        "ligType": "bi_cis"
+    },
+    "dpphen": {
+        "smiles": "C1=CC=C(C=C1)C2=C3C=CC4=C(C=CN=C4C3=NC=C2)C5=CC=CC=C5",
+        "coordList": [
+            14,
+            17
+        ],
+        "ligType": "bi_cis"
+    },
+    "bis_4-chlorophenyl_dithiophosphinate": {
+        "smiles": "C1=CC(=CC=C1P(=S)(C2=CC=C(C=C2)Cl)[S-])Cl",
+        "coordList": [
+            7,
+            15
+        ],
+        "ligType": "bi_cis"
+    },
+    "co2": {
+        "smiles": "O=C=O",
+        "coordList": [
+            1
+        ],
+        "ligType": "mono"
+    },
+    "btp": {
+        "smiles": "c1cnnc(n1)c1cccc(n1)c1nccnn1",
+        "coordList": [
+            3,
+            11,
+            17
+        ],
+        "ligType": "tri_mer"
+    },
+    "kryptofix-22": {
+        "smiles": "C1COCCOCCN(CCOCCOCCN1C)C",
+        "coordList": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17
+        ],
+        "ligType": "hexa_planar"
+    },
+    "kryptofix-222": {
+        "smiles": "C1COCCOCCN2CCOCCOCCN1CCOCCOCC2",
+        "coordList": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17,
+            20,
+            23
+        ],
+        "ligType": "octa_trigonal_prismatic_triangle_face_bicapped"
+    },
+    "kryptofix-211": {
+        "smiles": "C1COCCN2CCOCCN1CCOCCOCC2",
+        "coordList": [
+            2,
+            5,
+            8,
+            11,
+            14,
+            17
+        ],
+        "ligType": "hexa_trigonal_prismatic"
+    },
+    "oxalacetic_acid": {
+        "smiles": "C(C(=O)C(=O)O)C(=O)O",
+        "coordList": [
+            2,
+            4,
+            7
+        ],
+        "ligType": "tri_fac"
+    },
+    "oxalacetic_acid_bi": {
+        "smiles": "C(C(=O)C(=O)O)C(=O)O",
+        "coordList": [
+            2,
+            4
+        ],
+        "ligType": "bi_cis"
+    },
+    "oxalacetate": {
+        "smiles": "C(C(=O)C(=O)[O-])C(=O)O",
+        "coordList": [
+            2,
+            5,
+            7
+        ],
+        "ligType": "tri_fac"
+    },
+    "oxalacetate_bi": {
+        "smiles": "C(C(=O)C(=O)[O-])C(=O)O",
+        "coordList": [
+            2,
+            5,
+            7
+        ],
+        "ligType": "bi_cis"
+    },
+    "oxalbiacetate": {
+        "smiles": "C(C(=O)C(=O)[O-])C(=O)[O-]",
+        "coordList": [
+            2,
+            5,
+            8
+        ],
+        "ligType": "tri_fac"
+    },
+    "oxalbiacetate_bi": {
+        "smiles": "C(C(=O)C(=O)[O-])C(=O)[O-]",
+        "coordList": [
+            2,
+            5
+        ],
+        "ligType": "bi_cis"
+    },
+    "valine": {
+        "smiles": "CC(C)C(C(=O)O)N",
+        "coordList": [
+            5,
+            6
+        ],
+        "ligType": "bi_cis"
+    },
+    "valinate_bi_n": {
+        "smiles": "CC(C)C(C(=O)[O-])N",
+        "coordList": [
+            6,
+            7
+        ],
+        "ligType": "bi_cis"
+    },
+    "valinate_bi_o": {
+        "smiles": "CC(C)C(C(=O)[O-])N",
+        "coordList": [
+            5,
+            7
+        ],
+        "ligType": "bi_cis_chelating"
+    },
+    "oxime": {
+        "smiles": "c1(O)c(C(C)(C)C)cc(C(C)(C)C)cc1(C(=NO))",
+        "coordList": [
+            1,
+            16
+        ],
+        "ligType": "bi_cis"
+    },
+    "pyridine_ester": {
+        "smiles": "COC(=O)C1=CC(=CN=C1)C(=O)OC",
+        "coordList": [
+            8
+        ],
+        "ligType": "mono"
+    },
+    "tedga": {
+        "smiles": "CCN(CC)C(=O)COCC(=O)N(CC)CC",
+        "coordList": [
+            6,
+            8,
+            11
+        ],
+        "ligType": "tri_mer_bent"
+    },
+    "hydroxyquinoline": {
+        "smiles": "C1=CC2=C(C(=C(C)1)O)N=CC=C2",
+        "coordList": [
+            7,
+            8
+        ],
+        "ligType": "bi_cis"
+    },
+    "bi_benzimidazole": {
+        "smiles": "C1=CC=C2C(=C1)NC(=N2)C3=NC4=CC=CC=C4N3",
+        "coordList": [
+            8,
+            10
+        ],
+        "ligType": "bi_cis"
+    }
+}
