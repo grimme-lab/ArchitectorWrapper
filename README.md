@@ -4,6 +4,8 @@
 
 Welcome to ArchitectorWrapper, a Python package designed to provide a convenient wrapper for the Architector package, which automates the generation of metal complexes.
 
+Many thanks to [FreeSoulIG](https://github.com/FreeSoulIG) for working on this.
+
 ## Introduction
 
 ArchitectorWrapper is a user-friendly tool that simplifies the usage of the Architector package. With Architector, you can easily generate complex lanthanide or actinide structures with minimal effort, whether you're working on research projects, educational materials, or exploring the world of metal complexes.
